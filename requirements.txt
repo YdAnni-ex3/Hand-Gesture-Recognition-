@@ -1,0 +1,6 @@
+tensorflow
+keras
+matplotlib
+splitfolders
+scipy
+sequential
